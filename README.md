@@ -27,15 +27,17 @@ dependencies {
 ## Important
 <ul>
     <li> Your list adapter must extend <b>ArrayAdapter&lt;? whatever ?&gt;</b> </li>
-    <li> Your listview item must extend from AelvListItem </li>
+    <li> Your listview item must extend from AelvListItem
         <ul>
             <li> Right after you create your listview item, you need to call <b>yourItem.setUp(int collapsedHeight, int currentHeight, int expandedHeight, boolean isOpen);</b> to setup the dimensions.</li>
         </ul>
-    <li> Your listview item view holder must extend from AelvListViewHolder </li>
+    </li>
+    <li> Your listview item view holder must extend from AelvListViewHolder
         <ul>
             <li> Right after you instantiate your view holder you need to call <b>yourHolder.setViewWrap(viewWrap)</b>; and tell adapter that you are updating the item size calling <b>holder.getViewWrap().setLayoutParams(new AbsListView.LayoutParams(AbsListView.LayoutParams.MATCH_PARENT, listItem.getCurrentHeight()));</b>.</li>
             <li> Right before you return the view on your custom adapter, you must call <b>yourItem.setHolder(yourHolder)</b>;</li>
         </ul>
+    </li>
     <li>You need to instantiate <b>Aelv aelv = new Aelv(isAccordion, animationDuration, yourListItems, yourListView, yourAdapter);</b> right after you setup your listview.</li>
     <li>Last thing: your must implement <b>listview.setOnItemClickListener();</b> and insert this <b>aelv.toggle(view, position);</b> inside the listener and voilà!</li>
 </ul>
