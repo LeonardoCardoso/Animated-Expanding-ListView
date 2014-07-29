@@ -26,7 +26,7 @@ dependencies {
 
 ## Important
 <ul>
-    <li> Your list adapter must extend <b>ArrayAdapter&lt;? whatever ?&gt;</b> </li>
+    <li> Your list adapter must extend <b>ArrayAdapter&lt;? yourListItem ?&gt;</b> </li>
     <li> Your listview item must extend from AelvListItem
         <ul>
             <li> Right after you create your listview item, you need to call <b>yourItem.setUp(int collapsedHeight, int currentHeight, int expandedHeight, boolean isOpen);</b> to setup the dimensions.</li>
@@ -49,3 +49,28 @@ For more details, visit http://android.leocardz.com/animated-expanding-listview/
 ![Normal](https://dl.dropbox.com/s/2uppozbz8436jrk/not_closing.gif)
 
 ![Accordion](https://dl.dropboxusercontent.com/s/guvz7me3tbx973g/accordion.gif)
+
+
+
+
+Contact
+=================================
+If you are using this lib, let me know contacting me at android@leocardz.com then I add your app here in a list
+
+
+License
+=================================
+
+    Copyright 2014 Leonardo Cardoso
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
