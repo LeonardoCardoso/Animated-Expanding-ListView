@@ -1,31 +1,22 @@
 package com.leocardz.aelv;
 
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
-public class ListViewHolder {
-	private LinearLayout textViewWrap;
-	private TextView textView;
+import com.leocardz.aelv.library.AelvListViewHolder;
 
-	public ListViewHolder(LinearLayout textViewWrap, TextView textView) {
-		super();
-		this.textViewWrap = textViewWrap;
-		this.textView = textView;
-	}
+public class ListViewHolder extends AelvListViewHolder {
+    private TextView textView;
 
-	public TextView getTextView() {
-		return textView;
-	}
+    public ListViewHolder(TextView textView) {
+        super();
+        this.textView = textView;
+    }
 
-	public void setTextView(TextView textView) {
-		this.textView = textView;
-	}
+    public TextView getTextView() {
+        return textView;
+    }
 
-	public LinearLayout getTextViewWrap() {
-		return textViewWrap;
-	}
-
-	public void setTextViewWrap(LinearLayout textViewWrap) {
-		this.textViewWrap = textViewWrap;
-	}
+    public void setTextView(TextView textView) {
+        this.textView = textView;
+    }
 }
