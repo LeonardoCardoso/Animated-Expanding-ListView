@@ -1,4 +1,4 @@
-package com.leocardz.aelv.library;
+package com.leocardz.aelv;
 
 public class AelvListItem {
 

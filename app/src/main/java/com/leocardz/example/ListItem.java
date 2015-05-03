@@ -1,6 +1,6 @@
-package com.leocardz.aelv;
+package com.leocardz.example;
 
-import com.leocardz.aelv.library.AelvListItem;
+import com.leocardz.aelv.AelvListItem;
 
 public class ListItem extends AelvListItem {
 

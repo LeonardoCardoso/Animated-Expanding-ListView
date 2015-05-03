@@ -1,4 +1,4 @@
-package com.leocardz.aelv.library;
+package com.leocardz.aelv;
 
 public interface AelvCustomAction {
     void onEndAnimation(int position);
