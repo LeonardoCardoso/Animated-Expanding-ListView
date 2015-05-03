@@ -1,6 +1,4 @@
-package com.leocardz.aelv;
-
-import java.util.ArrayList;
+package com.leocardz.example;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,6 +9,8 @@ import android.widget.AbsListView.LayoutParams;
 import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import java.util.ArrayList;
 
 public class ListAdapter extends ArrayAdapter<ListItem> {
     private ArrayList<ListItem> listItems;

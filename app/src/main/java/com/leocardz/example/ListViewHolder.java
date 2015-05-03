@@ -1,8 +1,8 @@
-package com.leocardz.aelv;
+package com.leocardz.example;
 
 import android.widget.TextView;
 
-import com.leocardz.aelv.library.AelvListViewHolder;
+import com.leocardz.aelv.AelvListViewHolder;
 
 public class ListViewHolder extends AelvListViewHolder {
     private TextView textView;

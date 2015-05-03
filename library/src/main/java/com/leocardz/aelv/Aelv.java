@@ -1,4 +1,4 @@
-package com.leocardz.aelv.library;
+package com.leocardz.aelv;
 
 import android.annotation.SuppressLint;
 import android.view.View;

@@ -1,4 +1,4 @@
-package com.leocardz.aelv.library;
+package com.leocardz.aelv;
 
 import android.view.View;
 import android.view.animation.Animation;
