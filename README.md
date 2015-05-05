@@ -3,6 +3,8 @@ Animated-Expanding-ListView
 
 [![Build Status](https://travis-ci.org/LeonardoCardoso/Animated-Expanding-ListView.svg)](https://travis-ci.org/LeonardoCardoso/Animated-Expanding-ListView)
 
+Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@LeonardoCardoso</a>. 
+
 Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.
 
 It works in all version of Android and it's very easy to adapt to your project.
