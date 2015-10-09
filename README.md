@@ -33,7 +33,7 @@ dependencies {
     <li> Your list adapter must extend <b>ArrayAdapter&lt;? yourListItem ?&gt;</b> </li>
     <li> Your listview item must extend from AelvListItem
         <ul>
-            <li> Right after you create your listview item, you need to call <b>yourItem.setUp(int collapsedHeight, int currentHeight, int expandedHeight, boolean isOpen);</b> to setup the dimensions.</li>
+            <li> Right after you create your listview item, you need to call <b>yourItem.setUp(int collapsedHeight, int expandedHeight, boolean isOpen);</b> to setup the dimensions.</li>
         </ul>
     </li>
     <li> Your listview item view holder must extend from AelvListViewHolder
