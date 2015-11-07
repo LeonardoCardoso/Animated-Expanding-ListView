@@ -50,11 +50,10 @@ Just check the app example to see it clearly.
 
 For more details, visit http://android.leocardz.com/animated-expanding-listview/ 
 
-![Normal](https://dl.dropboxusercontent.com/s/gvzcuceboxqwc6f/not_closing.gif)
 
-![Accordion](https://dl.dropboxusercontent.com/s/60bn4j30w30ul5o/accordion.gif)
-
-
+| Normal | Accordion |
+:--:|:--:
+|![Normal](https://dl.dropboxusercontent.com/s/gvzcuceboxqwc6f/not_closing.gif) | ![Accordion](https://dl.dropboxusercontent.com/s/60bn4j30w30ul5o/accordion.gif) |
 
 
 Contact
