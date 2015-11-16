@@ -7,8 +7,8 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
-import com.leocardz.aelv.Aelv;
-import com.leocardz.aelv.AelvCustomAction;
+import com.leocardz.aelv.library.Aelv;
+import com.leocardz.aelv.library.AelvCustomAction;
 
 import java.util.ArrayList;
 
