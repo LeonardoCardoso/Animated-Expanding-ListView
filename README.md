@@ -1,7 +1,7 @@
 Animated-Expanding-ListView
 ===========================
 
-[![Build Status](https://travis-ci.org/LeonardoCardoso/Animated-Expanding-ListView.svg)](https://travis-ci.org/LeonardoCardoso/Animated-Expanding-ListView) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Animated--Expanding--ListView-green.svg?style=true)](https://android-arsenal.com/details/1/2778)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Animated--Expanding--ListView-green.svg?style=true)](https://android-arsenal.com/details/1/2778)
 
 Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@LeonardoCardoso</a>. 
 
