@@ -53,7 +53,7 @@ For more details, visit http://android.leocardz.com/animated-expanding-listview/
 
 | Normal | Accordion |
 :--:|:--:
-|![Normal](https://dl.dropboxusercontent.com/s/gvzcuceboxqwc6f/not_closing.gif) | ![Accordion](https://dl.dropboxusercontent.com/s/60bn4j30w30ul5o/accordion.gif) |
+|![Normal](http://i.imgur.com/j8KK5yh.gif) | ![Accordion](http://i.imgur.com/rVmezyp.gif) |
 
 
 Contact
