@@ -58,7 +58,8 @@ For more details, visit http://android.leocardz.com/animated-expanding-listview/
 
 Contact
 =================================
-If you are using this lib, let me know contacting me at android@leocardz.com then I add your app here in a list
+
+Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
 
 
 License
