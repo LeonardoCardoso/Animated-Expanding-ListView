@@ -1,4 +1,4 @@
-Animated-Expanding-ListView
+For more details, visitAnimated-Expanding-ListView
 ===========================
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Animated--Expanding--ListView-green.svg?style=true)](https://android-arsenal.com/details/1/2778)
@@ -47,8 +47,6 @@ dependencies {
 </ul>
 
 Just check the app example to see it clearly.
-
-For more details, visit http://android.leocardz.com/animated-expanding-listview/ 
 
 
 | Normal | Accordion |
